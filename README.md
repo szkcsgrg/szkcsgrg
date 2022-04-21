@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @szkcsgrg
-- 👀 I’m interested in it technologies
-- 🌱 I’m currently learning html, css, javascript, react
-- 💞️ I’m looking to collaborate with other people.
-- 📫 You can reach me via email: szkcsgrg@gmail.com
+ # 👋 Hi, I'm Gergő Szakács!
+ 
+ I'm on my way to become a Front-End Web Developer.
+ Currently I'm learning javascript, nodejs and react.
+ 
+ You can read more about me on my [website](https://szakacsgergo.com/)
+ You can reach me via email: info@szakacsgergo.com
+ 
